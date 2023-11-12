@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color:#0d0e0c;
+background-color: #9BBEC8;}
+    table {
+    width: 600px;
+   border: 2px solid rgb(58, 18, 18);
+   }
+    th, td {
+    padding: 7px 10px 10px 10px;}
+    th {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    border-bottom: 2px solid #111111;
+    border-top: 1px solid #22092C;
+    text-align: left;}
+    tr.even {
+    background-color: #facbeab6;}
+    tr:hover {
+    background-color: #60cfcc;}
+    .money {
+    text-align: right;}
